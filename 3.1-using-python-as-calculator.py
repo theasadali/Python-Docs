@@ -47,3 +47,4 @@ print(mystr[-2:])
 #s[:i] + s[i:] is always equal to s
 print(mystr[:2] + mystr[2:])
 #output: Hi There!
+
